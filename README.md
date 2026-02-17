@@ -1,2 +1,2 @@
 # kira-main
-Kira bot,feito totalmente usando a nazuna 
+nada a ser dito.
